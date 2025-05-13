@@ -1,0 +1,124 @@
+{
+  "Usuários": [
+    {
+      "id": "1",
+      "nome": "Wesley",
+      "idade": "17",
+      "SaldoBancario": "40000",
+      "email": "wesleypassos@gmail.com",
+      "senha": "123456"
+    },
+    {
+      "id": "2",
+      "nome": "Lucas",
+      "idade": "18",
+      "SaldoBancario": "50000",
+      "email": "lucas@gmail.com",
+      "senha": "1234"
+    },
+    {
+      "id": "ed70",
+      "nome": "",
+      "idade": "",
+      "saldo": "",
+      "email": "usuarioqualquer@gmail.com",
+      "senha": "124456"
+    },
+    {
+      "id": "80b6",
+      "nome": "",
+      "idade": "",
+      "saldo": "",
+      "email": "usuarioqualquer@gmail.com",
+      "senha": "124456"
+    },
+    {
+      "id": "c8ae",
+      "nome": "",
+      "idade": "4",
+      "saldo": "5555555",
+      "email": "usuarioqualquer@gmwail.com",
+      "senha": "5234"
+    },
+    {
+      "id": "4cc2",
+      "nome": "Wesley",
+      "idade": "44",
+      "saldo": "5555555",
+      "email": "usuarioqualquer@gmwail.com",
+      "senha": "1"
+    },
+    {
+      "id": "8f3a",
+      "nome": "Wesley",
+      "idade": "44",
+      "saldo": "5555555",
+      "email": "usuarioqualquer@gmwail.com",
+      "senha": "1"
+    },
+    {
+      "id": "14f8",
+      "nome": "NovoLogin",
+      "idade": "33",
+      "saldo": "30000",
+      "email": "loginnovo@fmail.com",
+      "senha": "1551"
+    },
+    {
+      "id": "b972",
+      "nome": "NovoLogin",
+      "idade": "33",
+      "saldo": "30000",
+      "email": "loginnovo@fmail.com",
+      "senha": "1551"
+    },
+    {
+      "id": "fb1a",
+      "nome": "NovoLogin",
+      "idade": "33",
+      "saldo": "30000",
+      "email": "loginnovo@fmail.com",
+      "senha": "1551"
+    },
+    {
+      "id": "e48b",
+      "nome": "NovoLogin",
+      "idade": "33",
+      "saldo": "30000",
+      "email": "loginnovo@fmail.com",
+      "senha": "1551"
+    },
+    {
+      "id": "eec3",
+      "nome": "welysson",
+      "idade": "12",
+      "saldo": "1200",
+      "email": "welysson@gmail.com",
+      "senha": "1234"
+    }
+  ],
+  "Logins": [
+    {
+      "id": "1",
+      "email": "wesleypassos@gmail.com",
+      "nome": "Wesley",
+      "senha": "123456"
+    },
+    {
+      "id": "b30e",
+      "email": "loginnovo@fmail.com",
+      "senha": "1551"
+    },
+    {
+      "id": "e664",
+      "email": "loginnovo@fmail.com",
+      "senha": "1551"
+    },
+    {
+      "id": "5cca",
+      "email": "welysson@gmail.com",
+      "senha": "1234",
+      "nome": "welysson"
+    }
+  ]
+}
